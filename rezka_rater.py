@@ -1,6 +1,5 @@
 import asyncio
 import aiohttp
-from aiohttp import web
 from py_random_useragent import UserAgent
 from lxml.html import fromstring
 import json
